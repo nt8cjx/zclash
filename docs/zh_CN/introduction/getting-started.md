@@ -47,4 +47,4 @@ $ file bin/clash-darwin-arm64
 bin/clash-darwin-arm64: Mach-O 64-bit executable arm64
 ```
 
-对于其他构建目标, 请查看 [Makefile](https://github.com/Dreamacro/clash/blob/master/Makefile).
+对于其他构建目标, 请查看 [Makefile](https://github.com/nt8cjx/zclash/blob/master/Makefile).
